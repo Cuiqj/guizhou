@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MaintainNoticeModelTable>
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="0" bottom="65" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="0" y1="68" x2="72" y2="68" />
+            
+            <line x1="0" y1="68" x2="0" y2="100" />
+            
+            <line x1="72" y1="68" x2="240" y2="68" />
+            
+            <line x1="72" y1="68" x2="72" y2="100" />
+            
+            <line x1="72" y1="68" x2="72" y2="100" />
+            
+            <line x1="240" y1="68" x2="312" y2="68" />
+            
+            <line x1="240" y1="68" x2="240" y2="100" />
+            
+            <line x1="240" y1="68" x2="240" y2="100" />
+            
+            <line x1="312" y1="68" x2="480" y2="68" />
+            
+            <line x1="312" y1="68" x2="480" y2="68" />
+            
+            <line x1="312" y1="68" x2="312" y2="100" />
+            
+            <line x1="312" y1="68" x2="312" y2="100" />
+            
+            <line x1="312" y1="68" x2="312" y2="100" />
+            
+            <line x1="480" y1="68" x2="480" y2="100" />
+            
+            <line x1="480" y1="68" x2="480" y2="100" />
+            
+            <line x1="0" y1="100" x2="72" y2="100" />
+            
+            <line x1="0" y1="100" x2="72" y2="100" />
+            
+            <line x1="0" y1="100" x2="0" y2="132" />
+            
+            <line x1="72" y1="100" x2="240" y2="100" />
+            
+            <line x1="72" y1="100" x2="240" y2="100" />
+            
+            <line x1="72" y1="100" x2="72" y2="132" />
+            
+            <line x1="72" y1="100" x2="72" y2="132" />
+            
+            <line x1="240" y1="100" x2="312" y2="100" />
+            
+            <line x1="240" y1="100" x2="312" y2="100" />
+            
+            <line x1="240" y1="100" x2="240" y2="132" />
+            
+            <line x1="240" y1="100" x2="240" y2="132" />
+            
+            <line x1="312" y1="100" x2="480" y2="100" />
+            
+            <line x1="312" y1="100" x2="480" y2="100" />
+            
+            <line x1="312" y1="100" x2="480" y2="100" />
+            
+            <line x1="312" y1="100" x2="312" y2="132" />
+            
+            <line x1="312" y1="100" x2="312" y2="132" />
+            
+            <line x1="480" y1="100" x2="480" y2="132" />
+            
+            <line x1="0" y1="132" x2="72" y2="132" />
+            
+            <line x1="0" y1="132" x2="72" y2="132" />
+            
+            <line x1="0" y1="132" x2="0" y2="164" />
+            
+            <line x1="72" y1="132" x2="240" y2="132" />
+            
+            <line x1="72" y1="132" x2="240" y2="132" />
+            
+            <line x1="72" y1="132" x2="72" y2="164" />
+            
+            <line x1="72" y1="132" x2="72" y2="164" />
+            
+            <line x1="240" y1="132" x2="312" y2="132" />
+            
+            <line x1="240" y1="132" x2="312" y2="132" />
+            
+            <line x1="240" y1="132" x2="240" y2="164" />
+            
+            <line x1="240" y1="132" x2="240" y2="164" />
+            
+            <line x1="312" y1="132" x2="480" y2="132" />
+            
+            <line x1="312" y1="132" x2="480" y2="132" />
+            
+            <line x1="312" y1="132" x2="312" y2="164" />
+            
+            <line x1="312" y1="132" x2="312" y2="164" />
+            
+            <line x1="480" y1="132" x2="480" y2="164" />
+            
+            <line x1="0" y1="164" x2="72" y2="164" />
+            
+            <line x1="0" y1="164" x2="480" y2="164" />
+            
+            <line x1="0" y1="164" x2="0" y2="196" />
+            
+            <line x1="72" y1="164" x2="240" y2="164" />
+            
+            <line x1="240" y1="164" x2="312" y2="164" />
+            
+            <line x1="312" y1="164" x2="480" y2="164" />
+            
+            <line x1="480" y1="164" x2="480" y2="196" />
+            
+            <line x1="0" y1="196" x2="480" y2="196" />
+            
+            <line x1="0" y1="196" x2="480" y2="196" />
+            
+            <line x1="0" y1="196" x2="480" y2="196" />
+            
+            <line x1="0" y1="196" x2="0" y2="606" />
+            
+            <line x1="0" y1="196" x2="0" y2="606" />
+            
+            <line x1="480" y1="196" x2="480" y2="606" />
+            
+            <line x1="480" y1="196" x2="480" y2="606" />
+            
+            <line x1="0" y1="606" x2="480" y2="606" />
+            
+            <line x1="0" y1="606" x2="480" y2="606" />
+            
+            <line x1="0" y1="606" x2="480" y2="606" />
+            
+            <line x1="0" y1="606" x2="0" y2="638" />
+            
+            <line x1="480" y1="606" x2="480" y2="638" />
+            
+            <line x1="0" y1="638" x2="480" y2="638" />
+            
+            <line x1="0" y1="638" x2="480" y2="638" />
+            
+            <line x1="0" y1="638" x2="0" y2="704" />
+            
+            <line x1="480" y1="638" x2="480" y2="704" />
+            
+            <line x1="0" y1="704" x2="480" y2="704" />
+
+        </Lines>
+        <Title>
+            <Text>
+                <text>道路设施维修通知书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="480" height="35" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>所在路线</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="68" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>损坏设施</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="68" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>损坏原因</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="100" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>签发单位</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="100" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>签发人</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="132" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>签发日期</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="132" />
+                <size width="72" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>维修描述</text>
+                <fontSize>12</fontSize>
+                <origin x="10" y="164" />
+                <size width="480" height="32" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>备注</text>
+                <fontSize>12</fontSize>
+                <origin x="10" y="606" />
+                <size width="480" height="32" />
+                <alignment>Left</alignment>
+            </Text>
+
+        </Texts>
+    </StaticTable>
+    <DataTable>        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="336" y="35" />
+            <size width="144" height="24" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{maintain_cd}-->
+                <data>
+                    <attributeName>maintain_cd</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="72" y="68" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{code}-->
+                <data>
+                    <attributeName>name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>9</fontSize>
+            <origin x="312" y="68" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{roadasset}-->
+                <data>
+                    <attributeName>roadasset</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="72" y="100" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{reason}-->
+                <data>
+                    <attributeName>reason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="312" y="100" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{orgName}-->
+                <data>
+                    <attributeName>orgname</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="72" y="132" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{subscriber_name}-->
+                <data>
+                    <attributeName>subscriber_name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="312" y="132" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{subscriber_date}-->
+                <data>
+                    <attributeName>subscriber_date</attributeName>
+                    <mode>yyyy年MM月dd日</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="10" y="196" />
+            <size width="480" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{description}-->
+                <data>
+                    <attributeName>mydescription</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="10" y="638" />
+            <size width="480" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{remark}-->
+                <data>
+                    <attributeName>remark</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</MaintainNoticeModelTable>
